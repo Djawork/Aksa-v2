@@ -10,7 +10,7 @@ class Translation(object):
 You can't Add Me To Your Group And Channel 🔥😝 Im HD MOVIES Group Assistant
 
 For More Details Click Help Button Below..
-@HD_MOVIES_Group
+@HD_MOVIES_Group 😍
 </i>"""    
     
     HELP_TEXT = """
